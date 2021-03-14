@@ -1,6 +1,6 @@
 #!/bin/bash
 
-rm Packages*
-./dpkg-scanpackages -m . /dev/null >Packages
+rm -rf Packages*
+dpkg-scanpackages -m ./debs > Packages
 bzip2 Packages
 
