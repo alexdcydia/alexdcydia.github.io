@@ -5,4 +5,6 @@ Version: 1.0
 Codename: cydia-ios
 Architectures: iphoneos-arm
 Components: main
+Maintainer: GameModTV <alexd.cydia@gmail.com>
+Author: GameModTV <alexd.cydia@gmail.com>
 Description: Hack Liên Quân Mobile VN (GameModTV)
